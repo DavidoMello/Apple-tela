@@ -33,11 +33,10 @@ para ter uma visão detalhada de como o projeto se parece.
 
 ## Preview
 
-![sistok](https://github.com/f5-nascimento/Sistok/assets/28812188/0eeb7054-37d7-40bd-abb3-002fbfeb3d88)
-
+https://apple-tela.vercel.app/
 
 ## Deploy
 
-O projeto está disponível em 
+O projeto está disponível em https://apple-tela.vercel.app/
 
 Seja bem-vindo ao Clone-Apple, e sinta-se à vontade para contribuir ou entrar em contato conosco!
