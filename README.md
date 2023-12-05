@@ -40,3 +40,20 @@ https://apple-tela.vercel.app/
 O projeto está disponível em https://apple-tela.vercel.app/
 
 Seja bem-vindo ao Clone-Apple, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+
+
+
+
+![NETFLIX 1](https://github.com/DavidoMello/Apple-tela/assets/138627500/f09239aa-d8ca-42a2-8be1-c56afb69f8a6)
+
+
+
+![NETFLIX 2](https://github.com/DavidoMello/Apple-tela/assets/138627500/f6f73d8e-5a79-4601-a345-f8771c1c2d69)
+
+
+
+![NETFLIX 3](https://github.com/DavidoMello/Apple-tela/assets/138627500/21ac29f6-0889-40bb-8028-6db5c5ed6910)
+
+
+
+
